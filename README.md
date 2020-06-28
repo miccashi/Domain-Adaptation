@@ -8,3 +8,6 @@ When using machine learning techniques to tackle real-world problems, training r
 
 We perform three tasks on the dataset and name tasks as target-domain-tasks. Also, We use 70%, 15%, and 15% of each dataset as train, validation, and test data out of 4404, 3654, and 7304 instances for male-only, female-only and mixed-gender schools, respectively. Any domain as the target case would have only 100 labelled examples for training and evaluating. Additionally, one-hot encoding is used on categorical data.
 
+
+
+
